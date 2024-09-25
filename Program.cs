@@ -278,6 +278,7 @@ while(count <= number){
 
 
 
+/*
 // Q3-for_loops
 // part 1
 for(int i = 1; i < 11; i++){
@@ -336,3 +337,4 @@ foreach(string i in names) Console.WriteLine("Name: " + i);
 // part 7
 List<int> numbers = new List<int> {2,3,4,5,6};
 foreach(int i in numbers) Console.WriteLine("Square of " + i + ": " + i*i);
+*/
